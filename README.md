@@ -8,7 +8,7 @@ Due to deployment limitations, the project is presented with a **full demo video
 
 ## 🎥 Project Demo Video
 
-📹 **[Watch Full Demo Video](./docs/project.mp4)**
+📹 **[Watch Full Demo Video](./docs/demo.mp4)**
 
 > The video demonstrates both **frontend user experience** and **admin dashboard functionalities**, including CRUD operations and dynamic UI behavior.
 
