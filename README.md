@@ -8,7 +8,7 @@ Due to deployment limitations, the project is presented with a **full demo video
 
 ## 🎥 Project Demo Video
 
-📹 **[Watch Full Demo Video](./docs/demo.mp4)**
+📹 **[Watch Full Demo Video](./docs/project.mp4)**
 
 > The video demonstrates both **frontend user experience** and **admin dashboard functionalities**, including CRUD operations and dynamic UI behavior.
 
@@ -61,7 +61,7 @@ Due to deployment limitations, the project is presented with a **full demo video
 ### 📂 Backend Functionality
 - MVC architecture (Laravel standard)
 - Eloquent relationships
-- Slug-based routing
+- ID-based routing
 - Image storage using Laravel filesystem
 - Pagination using Laravel paginator
 - Blade layouts & partials for reusable UI
